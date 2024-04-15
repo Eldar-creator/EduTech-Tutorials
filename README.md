@@ -1,5 +1,6 @@
 # EduTech-Tutorials
-[Final.presentation.1.pdf](https://github.com/Eldar-creator/EduTech-Tutorials/files/14976594/Final.presentation.1.pdf)
+[Presentation on Inrtroduction to linear equation.pdf](https://github.com/Eldar-creator/EduTech-Tutorials/files/14976642/Presentation.on.Inrtroduction.to.linear.equation.pdf)
+
 
 
 [Worksheet on theme “Introduction to Linear Equations “.pdf](https://github.com/Eldar-creator/EduTech-Tutorials/files/14976598/Worksheet.on.theme.Introduction.to.Linear.Equations.pdf)
